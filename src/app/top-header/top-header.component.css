@@ -1,0 +1,21 @@
+
+.Top {
+  text-align: center;
+  width: 100%;
+  padding: 50px;
+}
+
+.Top__header {
+  font-size: 40px;
+  width: 700px;
+}
+
+.Top__img {
+  height: 300px;
+  margin-top: 70px;
+}
+.Top,
+.Top__header,
+.Top__img {
+  background-color:white;
+}

@@ -1,0 +1,21 @@
+.Middle {
+    align-items: center;
+    text-align: center;
+    height: auto;
+    background-color: blueviolet;
+    width: 500px;
+  }
+  
+  .Middle__header {
+    margin-top: 50px;
+    padding: 50px;
+    color: aliceblue;
+  }
+  .Middle__paragraph {
+    padding: 20px;
+    font-size: 30px;
+    width: 400px;
+    color: aliceblue;
+  }
+  
+  
